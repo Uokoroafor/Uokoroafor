@@ -7,6 +7,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 
 - 🌱 I’m currently learning about Reinforcement Learning, Neural Networks and Computer Vision
 - 👯 I’m looking to collaborate on interesting development projects
+- 💬 Ask me about anything. Always happy to chat.
 
 
 ![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,issues)
