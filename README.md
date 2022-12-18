@@ -17,6 +17,11 @@ Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id
 
 <!--START_SECTION:waka-->
 
+```text
+Python   6 hrs 37 mins   █████████████████████████   99.42 %
+Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
