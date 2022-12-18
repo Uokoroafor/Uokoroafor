@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uokoroafor/uokoroafor) &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArtificialUgo)&nbsp;
 
-Currently an MSc in AI student at Imperial College London
+Currently an MSc in Artificial Intelligence student at Imperial College London at the very start of my AI Journey
 
 - 🌱 I’m currently learning about Reinforcement Learning, Neural Networks and Computer Vision
 - 👯 I’m looking to collaborate on interesting development projects
