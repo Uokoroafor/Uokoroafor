@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Ugo Okoroafor
 
 Ugo here. Currently an MSc in AI student at Imperial College London
 
-- 🌱 I’m currently learning about Artificial Intelligence
-- 👯 I’m looking to collaborate on 
+- 🌱 I’m currently learning about Reinforcement Learning, Neural Networks and Computer Vision
+- 👯 I’m looking to collaborate on interesting development projects
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-okoroafor-49709878/) &nbsp;
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uokoroafor/uokoroafor) &nbsp;
