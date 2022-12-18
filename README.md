@@ -8,6 +8,10 @@ Ugo here. Currently an MSc in AI student at Imperial College London
 
 
 Really nice to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Uokoroafor/Uokoroafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
