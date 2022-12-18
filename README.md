@@ -10,8 +10,9 @@ Currently an MSc in AI student at Imperial College London
 
 
 ![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uokoroafor&layout=compact)](https://github.com/uokoroafor/)
 
-Really nice to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
+Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
 <!--START_SECTION:waka-->
 
@@ -30,6 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Ugo's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 
