@@ -2,6 +2,9 @@
 
 Ugo here. Currently an MSc in AI student at Imperial College London
 
+- 🌱 I’m currently learning about Artificial Intelligence
+- 👯 I’m looking to collaborate on 
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-okoroafor-49709878/) &nbsp;
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uokoroafor/uokoroafor) &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArtificialUgo)&nbsp;
@@ -10,6 +13,7 @@ Ugo here. Currently an MSc in AI student at Imperial College London
 Really nice to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <!--
