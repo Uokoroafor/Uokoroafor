@@ -9,7 +9,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 - 👯 I’m looking to collaborate on interesting development projects
 
 
-![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent)
+![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,commits,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)
 
