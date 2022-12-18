@@ -10,7 +10,7 @@ Ugo here. Currently an MSc in AI student at Imperial College London
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArtificialUgo)&nbsp;
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uokoroafor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uokoroafora&show_icons=true&theme=transparent)
 
 Really nice to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
