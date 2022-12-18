@@ -15,6 +15,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 
 Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
+## Stats for this week 👨🏾‍💻
 <!--START_SECTION:waka-->
 
 ```text
