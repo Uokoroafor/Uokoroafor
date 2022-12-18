@@ -13,9 +13,9 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)
 
-Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
-## Stats for this week 👨🏾‍💻
+
+### Stats for this week 👨🏾‍💻
 <!--START_SECTION:waka-->
 
 ```text
@@ -24,6 +24,7 @@ Text     2 mins          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
 <!--
 **Uokoroafor/Uokoroafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
