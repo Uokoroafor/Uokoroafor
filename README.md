@@ -8,6 +8,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 - 🌱 I’m currently learning about Reinforcement Learning, Neural Networks and Computer Vision
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Ask me about anything. Always happy to chat.
+- Thanks for stopping by!
 
 
 ![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,issues)
@@ -29,7 +30,7 @@ Text      1 min           ░░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
 <!--
 **Uokoroafor/Uokoroafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
