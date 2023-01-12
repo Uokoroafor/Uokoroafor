@@ -13,7 +13,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 
 ![Ugo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.vercel.app/api/top-langs/?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.vercel.app/api/top-langs?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)
 
 
 
