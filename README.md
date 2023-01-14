@@ -8,7 +8,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 - 🌱 I’m currently learning about NLP, Deep Learning and Robot Learning
 - 🔭 I’m currently working on Reinforcement Learning projects and improving my languages
 - 👯 I’m looking to collaborate on interesting development projects
-- 🤔 I’m looking for help with C++
+- 🤔 I’m looking for help with C++ (currently learning it out of interest)
 - 💬 Ask me about anything. Always happy to chat.
 - Thanks for stopping by!
 
