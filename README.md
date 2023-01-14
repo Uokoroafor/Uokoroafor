@@ -5,8 +5,10 @@
 
 Currently an MSc in Artificial Intelligence student at Imperial College London at the start of my AI Journey
 
-- 🌱 I’m currently learning about Reinforcement Learning, Neural Networks and Computer Vision
+- 🌱 I’m currently learning about NLP, Deep Learning and Robot Learning
+- 🔭 I’m currently working on Reinforcement Learning projects and improving my languages
 - 👯 I’m looking to collaborate on interesting development projects
+- 🤔 I’m looking for help with C++
 - 💬 Ask me about anything. Always happy to chat.
 - Thanks for stopping by!
 
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Ugo's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-hide=stars,commits,prs,issues,contribs
+hide=stars,commits,prs,issues
 -->
 
 
