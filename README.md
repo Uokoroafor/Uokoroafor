@@ -19,7 +19,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 
 
 
-### Stats for this week 👨🏾‍💻
+### This week in code 👨🏾‍💻
 <!--START_SECTION:waka-->
 
 ```text
