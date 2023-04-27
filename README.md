@@ -5,10 +5,10 @@
 
 Currently an MSc in Artificial Intelligence student at Imperial College London at the start of my AI Journey
 
-- 🌱 I’m currently learning about NLP, Deep Learning and Robot Learning
+- 🌱 I’m currently learning about Large Language Models
 - 🔭 I’m currently working on Reinforcement Learning projects and improving my languages
 - 👯 I’m looking to collaborate on interesting development projects
-- 🤔 I’m looking for help with C++ and Jax(currently learning it out of interest)
+- 🤔 I’m looking for help with Jax
 - 💬 Ask me about anything. Always happy to chat.
 - Thanks for stopping by!
 
