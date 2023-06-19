@@ -13,7 +13,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 - Thanks for stopping by!
 
 
-![Ugo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,issues)
+![Ugo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)
 
@@ -32,10 +32,11 @@ requirements.txt   0 secs          ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)-->
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})-->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
+
 
 <!--
 **Uokoroafor/Uokoroafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
