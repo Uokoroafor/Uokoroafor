@@ -30,7 +30,12 @@ requirements.txt   0 secs          ░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+<!--
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)-->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
 
 <!--
 **Uokoroafor/Uokoroafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
