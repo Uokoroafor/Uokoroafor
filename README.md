@@ -23,11 +23,11 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 <!--START_SECTION:waka-->
 
 ```txt
-Python             24 hrs 46 mins  ███████████████████████▓░   95.24 %
-requirements.txt   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Text               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-CSV/TSV            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-GitIgnore file     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Python             23 hrs 23 mins  ███████████████████████▓░   94.74 %
+Text               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+requirements.txt   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+CSV/TSV            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+GitIgnore file     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
