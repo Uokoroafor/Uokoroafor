@@ -37,6 +37,9 @@ requirements.txt   41 mins         ▓░░░░░░░░░░░░░░
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})-->
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${uokoroafor}.${uokoroafor})
+
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-okoroafor-49709878/) &nbsp;
