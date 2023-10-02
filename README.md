@@ -24,7 +24,7 @@ Currently an MSc in Artificial Intelligence student at Imperial College London a
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil   10 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
