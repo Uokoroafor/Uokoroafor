@@ -3,12 +3,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;)-->
 
-Currently an MSc in Artificial Intelligence student at Imperial College London at the start of my AI Journey
+I just Finished an MSc in Artificial Intelligence at Imperial College London and am now continuing my AI Journey
 
-- 🌱 I’m currently learning about Large Language Models
-- 🔭 I’m currently working on Reinforcement Learning projects and improving my languages
+- 🌱 I’m currently learning about Docker and CI/CD
+- 🔭 I’m currently working on NLP and Reinforcement Learning projects
 - 👯 I’m looking to collaborate on interesting development projects
-- 🤔 I’m looking for help with Jax
+<!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about anything. Always happy to chat.
 - Thanks for stopping by!
 
