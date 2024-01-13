@@ -24,11 +24,11 @@ I just Finished an MSc in Artificial Intelligence at Imperial College London and
 <!--START_SECTION:waka-->
 
 ```txt
-Python     8 hrs 54 mins   ██████████████████░░░░░░░   71.49 %
-Text       3 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-Git        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-textmate   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Jupyter    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python     12 hrs 32 mins  ██████████████████░░░░░░░   72.27 %
+Text       4 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Git        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+textmate   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TOML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
