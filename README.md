@@ -5,9 +5,9 @@
 
 I just Finished an MSc in Artificial Intelligence at Imperial College London and am now continuing my AI Journey
 
-- 🌱 I’m currently learning more about Docker, APIs and CI/CD
-- 🔭 I’m currently working on NLP and Reinforcement Learning projects
-- 👯 I’m looking to collaborate on interesting development projects
+- 🌱 I’m currently learning more about Docker, AWS and CI/CD
+- 🔭 I’m currently working on NLP and Data Science projects
+- 👯 I’m looking to collaborate on interesting real world problems
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about anything. Always happy to chat.
 - Thanks for stopping by!
