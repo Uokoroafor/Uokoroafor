@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;)-->
 
-I just Finished an MSc in Artificial Intelligence at Imperial College London and am now continuing my AI Journey
+I just Finished an MSc in Artificial Intelligence at Imperial College London and am now starting my AI journey as a Data Scientist
 
 - 🌱 I’m currently learning more about Docker, AWS and CI/CD
 - 🔭 I’m currently working on NLP and Data Science projects
