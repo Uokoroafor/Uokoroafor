@@ -5,7 +5,7 @@
 
 I just Finished an MSc in Artificial Intelligence at Imperial College London and am now starting my AI journey as a Data Scientist
 
-- 🌱 I’m currently learning more about Docker, AWS and CI/CD
+- 🌱 I’m currently learning more about Azure and AWS
 - 🔭 I’m currently working on NLP and Data Science projects
 - 👯 I’m looking to collaborate on interesting real world problems
 <!-- - 🤔 I’m looking for help with  -->
