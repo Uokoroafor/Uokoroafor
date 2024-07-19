@@ -20,12 +20,12 @@ I just Finished an MSc in Artificial Intelligence at Imperial College London and
 
 
 
-### This week in code 👨🏾‍💻
+<!-- ### This week in code 👨🏾‍💻 -->
 <!--START_SECTION:waka-->
 
-```txt
+<!--```txt
 No activity tracked
-```
+```-->
 
 <!--END_SECTION:waka-->
 
