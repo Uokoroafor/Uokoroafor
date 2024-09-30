@@ -24,9 +24,9 @@ I just Finished an MSc in Artificial Intelligence at Imperial College London and
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 mins          ██████████████████████▒░░   89.78 %
-Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-SQL      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Python   13 mins         ████████████▒░░░░░░░░░░░░   49.55 %
+Text     13 mins         ████████████▒░░░░░░░░░░░░   48.80 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
