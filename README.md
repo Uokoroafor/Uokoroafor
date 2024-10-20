@@ -24,11 +24,11 @@ I love solving problems with code
 <!--START_SECTION:waka-->
 
 ```txt
-Bash               1 hr 1 min      ████████████░░░░░░░░░░░░░   48.17 %
-Shell Script       34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-Python             26 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-HTML               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-GitIgnore file     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Bash               1 hr 1 min      ███████████▒░░░░░░░░░░░░░   45.80 %
+Shell Script       34 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Python             32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+HTML               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+GitIgnore file     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
