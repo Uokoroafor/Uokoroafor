@@ -24,11 +24,10 @@ I love solving problems with code
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 59 mins   █████████████████▒░░░░░░░   68.74 %
-HTML     1 hr 19 mins    ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   2 hrs 59 mins   ██████████████▓░░░░░░░░░░   58.18 %
+HTML     2 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.17 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
