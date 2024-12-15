@@ -24,11 +24,11 @@ I love solving problems with code
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.07 %
-HTML         2 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   28.35 %
-Python       2 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.19 %
-YAML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Python       2 hrs 28 mins   ███████▓░░░░░░░░░░░░░░░░░   31.22 %
+HTML         2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+TypeScript   1 hr 24 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
+Markdown     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Docker       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
