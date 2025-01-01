@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)&nbsp;)-->
 
-I love solving problems with code
+I love solving problems with code through building interesting solutions
 
 - 🌱 **Currently Learning:** Cloud deployment, front-end programming, and graph databases.
 - 🔭 **Current Projects:** Exploring machine learning initiatives and applications of large language models (LLMs).
