@@ -5,24 +5,26 @@
 
 I love solving problems with code
 
-- 🌱 I’m currently learning more about cloud deployment
-- 🔭 I’m currently working on NLP and Data Science projects
-- 👯 I’m looking to collaborate on interesting real world problems
+- 🌱 **Currently Learning:** Cloud deployment, front-end programming, and graph databases.
+- 🔭 **Current Projects:** Exploring machine learning initiatives and applications of large language models (LLMs).
+- 👯 **Looking to Collaborate:** Open to solving real-world challenges involving ML, AI, or large-scale data systems.
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about anything. Always happy to chat.
-- Thanks for stopping by!
+- 💬 **Let's Talk:** Always happy to chat, exchange ideas, or answer questions!
+
+Thanks for stopping by!
 
 
-![Ugo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,issues)
+<!--![Ugo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=stars,issues)-->
 <!--![Ugo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=uokoroafor&show_icons=true&theme=transparent&hide=issues)-->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)
+<!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uokoroafor&layout=compact&theme=transparent)](https://github.com/uokoroafor/)-->
 
 
 
 <!-- ### This week in code 👨🏾‍💻 -->
 <!--START_SECTION:waka-->
 
+<!--
 ```txt
 Python       3 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
 Bash         2 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
@@ -39,7 +41,7 @@ HTML         24 mins         █░░░░░░░░░░░░░░░░
 
  
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-okoroafor-49709878/) &nbsp;
+<!-- [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-okoroafor-49709878/) &nbsp; -->
 
 <!--
 **Uokoroafor/Uokoroafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,6 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Ugo's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
--->
+[![Ugo's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
