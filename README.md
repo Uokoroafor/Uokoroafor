@@ -25,11 +25,11 @@ Thanks for stopping by!
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 45 mins   ███████████░░░░░░░░░░░░░░   43.58 %
-Markdown     1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-YAML         1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Docker       1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-JavaScript   51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+HTML         3 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   43.20 %
+JavaScript   1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+Markdown     1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+YAML         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Docker       41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
