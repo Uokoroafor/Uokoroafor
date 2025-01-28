@@ -25,11 +25,11 @@ Thanks for stopping by!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   29.63 %
-Python       48 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-CSS          21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Git Config   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Python       3 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.28 %
+JavaScript   1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+Markdown     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+CSS          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Git Config   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
