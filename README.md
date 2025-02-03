@@ -22,17 +22,7 @@ Thanks for stopping by!
 
 
 <!-- ### This week in code 👨🏾‍💻 -->
-<!--START_SECTION:waka-->
 
-```txt
-Python                     6 hrs 47 mins   █████████████▓░░░░░░░░░░░   55.05 %
-JavaScript                 1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-YAML                       1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Other                      22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Nginx configuration file   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
@@ -55,4 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Ugo's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
+-->
