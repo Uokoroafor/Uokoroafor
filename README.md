@@ -5,7 +5,7 @@
 
 I love solving problems with code through building interesting solutions
 
-- 🌱 **Currently Learning:** Cloud deployment, front-end programming, and graph databases.
+<!--- 🌱 **Currently Learning:** Cloud deployment, front-end programming, and graph databases.
 - 🔭 **Current Projects:** Exploring machine learning initiatives and applications of large language models (LLMs).
 - 👯 **Looking to Collaborate:** Open to solving real-world challenges involving ML, AI, or large-scale data systems.
 <!-- - 🤔 I’m looking for help with  -->
